@@ -2,3 +2,6 @@
 
 *.idea/
 *.gradle/
+
+test.sh
+test.py
